@@ -1,2 +1,5 @@
 # Pyramid
+
+
+IF YOU MAKE CHANGES RE UPLOAD THEM TO THE GITHUB
 Pyramid n that for SE
